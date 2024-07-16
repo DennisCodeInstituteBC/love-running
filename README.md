@@ -1,5 +1,5 @@
 # Love Running - Walkthrough Project
-
+![image](https://github.com/user-attachments/assets/36154847-99f7-4377-b4a5-a0901bfb7d07)
 This project is a walkthrough exercise from the Code Institute, designed to help learners build a responsive web application using HTML and CSS. The application is called "Love Running" and is optimized to be viewed on any device, from smartphones to desktops.
 
 **Project Overview**
